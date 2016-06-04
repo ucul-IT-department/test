@@ -1,5 +1,5 @@
 <?php
-//20160603 原内容：1 张四 zhangyi
+// 原内容：2 张二 zhanger
 
 // 检测PHP环境
 if(version_compare(PHP_VERSION,'5.3.0','<'))  die('require PHP > 5.3.0 !');
